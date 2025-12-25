@@ -80,17 +80,17 @@ The project currently focuses on **Binary Thyroid Nodule Segmentation** using Ul
 
 ## Preliminary Results
 
-![Inference Example 1](Single Shot Uncertainty Quantification & Segmentation /Outputs/Experiment_Dual_UNet/Inference_Results/0033_dual_unet_result.png)
+![Inference Example 1](Outputs/Experiment_Dual_UNet/Inference_Results/0033_dual_unet_result.png)
 
-![Inference Example 2](Single Shot Uncertainty Quantification & Segmentation /Outputs/Experiment_Shared_UNet/Inference_Results/0033_shared_unet_result.png)
+![Inference Example 2](Outputs/Experiment_Shared_UNet/Inference_Results/0033_shared_unet_result.png)
 
-![Experiment_Dual_UNet](Single Shot Uncertainty Quantification & Segmentation /Outputs/Experiment_Dual_UNet/Experiment_Summary_HighRes.png)
+![Experiment_Dual_UNet](Outputs/Experiment_Dual_UNet/Experiment_Summary_HighRes.png)
 
-![Experiment_Shared_UNet](Single Shot Uncertainty Quantification & Segmentation /Outputs/Experiment_Shared_UNet/Experiment_Summary_HighRes.png)
+![Experiment_Shared_UNet](Outputs/Experiment_Shared_UNet/Experiment_Summary_HighRes.png)
 
-![Experiment_Dual_TransUNet](Single Shot Uncertainty Quantification & Segmentation /Outputs/Experiment_Dual_TransUNet/Experiment_Summary_HighRes.png)
+![Experiment_Dual_TransUNet](Outputs/Experiment_Dual_TransUNet/Experiment_Summary_HighRes.png)
 
-![Experiment_Shared_TransUNet](Single Shot Uncertainty Quantification & Segmentation /Outputs/Experiment_Shared_TransUNet/Experiment_Summary_HighRes.png)
+![Experiment_Shared_TransUNet](Outputs/Experiment_Shared_TransUNet/Experiment_Summary_HighRes.png)
 
 ## Roadmap & Upcoming Updates
 
